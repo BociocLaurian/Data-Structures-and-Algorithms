@@ -1,0 +1,16 @@
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net6.0\ArrayImplementation.exe
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net6.0\ArrayImplementation.deps.json
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net6.0\ArrayImplementation.runtimeconfig.json
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net6.0\ArrayImplementation.dll
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net6.0\ref\ArrayImplementation.dll
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net6.0\ArrayImplementation.pdb
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.csproj.AssemblyReference.cache
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.AssemblyInfoInputs.cache
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.AssemblyInfo.cs
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.ImplicitNamespaceImports.cs
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.csproj.CoreCompileInputs.cache
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.dll
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ref\ArrayImplementation.dll
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.pdb
+D:\VS2022-repo\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net6.0\ArrayImplementation.genruntimeconfig.cache
